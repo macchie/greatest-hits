@@ -1,4 +1,4 @@
-## Greatest Hits - Vol. 1
+## [Greatest Hits - Vol. 1](https://netslum.it/greatest-hits-vol-1/)
 
 A 10 tracks playlist of awesome coding resources.
 
