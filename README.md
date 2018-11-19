@@ -7,5 +7,6 @@ Each volume is intended as a 10 tracks playlist of awesome coding resources. Bon
 
 - [Greatest Hits - Vol.1](volumes/vol-1.md)
 - [Greatest Hits - Vol.2](volumes/vol-2.md)
+- [Greatest Hits - Vol.3](volumes/vol-3.md)
 
 Enjoy!
